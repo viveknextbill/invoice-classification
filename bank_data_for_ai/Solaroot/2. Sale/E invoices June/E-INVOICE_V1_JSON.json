@@ -1,0 +1,698 @@
+[
+{
+"Version":"1.1",
+"TranDtls":{
+               "TaxSch":"GST",
+               "SupTyp":"EXPWOP",
+               "IgstOnIntra":"N",
+               "RegRev":null,
+               "EcmGstin":null
+},
+"DocDtls":{
+               "Typ":"INV",
+               "No":"SRE-24/25-21",
+               "Dt":"06/06/2024"
+},
+"SellerDtls":{
+               "Gstin":"06ABFCS3581H1Z7",
+               "LglNm":"SOLAROOT ENGINEERING SERVICES PRIVATE LIMITED",
+               "TrdNm":null,
+               "Addr1":"BUILDING NO./FLAT NO.: 880",
+               "Addr2":"PHASE-V ",
+               "Loc":"UDYOG VIHAR GURUGRAM",
+               "Pin":122016,
+               "Stcd":"06",
+               "Ph":null,
+               "Em":null
+},
+"BuyerDtls":{
+               "Gstin":"URP",
+               "LglNm":"EEANDC",
+               "TrdNm":null,
+               "Pos":"96",
+               "Addr1":"Las Vegas, NV 89118",
+               "Addr2":null,
+               "Loc":"USA",
+               "Pin":999999,
+               "Stcd":"96",
+               "Ph":null,
+               "Em":null
+},
+"ValDtls":{
+               "AssVal":9296,
+               "IgstVal":0,
+               "CgstVal":0,
+               "SgstVal":0,
+               "CesVal":0,
+               "StCesVal":0,
+               "Discount":0,
+               "OthChrg":0,
+               "RndOffAmt":0,
+               "TotInvVal":9296
+},
+"ExpDtls":{
+               "ShipBNo":null,
+               "ShipBDt":null,
+               "Port":null,
+               "RefClm":null,
+               "ForCur":null,
+               "CntCode":null,
+               "ExpDuty":0
+},
+                         "ItemList":[{
+                                "SlNo":"1",
+                                "PrdDesc":"engineering services",
+                                "IsServc":"Y",
+                                "HsnCd":"998331",
+                                "Qty":1,
+                                "Unit":"NOS",
+                                "UnitPrice":9296,
+                                "TotAmt":9296,
+                                "Discount":0,
+                                "PreTaxVal":0,
+                                "AssAmt":9296,
+                                "GstRt":0,
+                                "IgstAmt":0,
+                                "CgstAmt":0,
+                                "SgstAmt":0,
+                                "CesRt":0,
+                                "CesAmt":0,
+                                "CesNonAdvlAmt":0,
+                                "StateCesRt":0,
+                                "StateCesAmt":0,
+                                "StateCesNonAdvlAmt":0,
+                                "OthChrg":0,
+                                "TotItemVal":9296
+                              }
+                              ]
+},
+{
+"Version":"1.1",
+"TranDtls":{
+               "TaxSch":"GST",
+               "SupTyp":"EXPWOP",
+               "IgstOnIntra":"N",
+               "RegRev":null,
+               "EcmGstin":null
+},
+"DocDtls":{
+               "Typ":"INV",
+               "No":"SRE-24/25-22",
+               "Dt":"06/06/2024"
+},
+"SellerDtls":{
+               "Gstin":"06ABFCS3581H1Z7",
+               "LglNm":"SOLAROOT ENGINEERING SERVICES PRIVATE LIMITED",
+               "TrdNm":null,
+               "Addr1":"BUILDING NO./FLAT NO.: 880",
+               "Addr2":"PHASE-V ",
+               "Loc":"UDYOG VIHAR GURUGRAM",
+               "Pin":122016,
+               "Stcd":"06",
+               "Ph":null,
+               "Em":null
+},
+"BuyerDtls":{
+               "Gstin":"URP",
+               "LglNm":"Element Power Systems, Inc.",
+               "TrdNm":null,
+               "Pos":"96",
+               "Addr1":"PO BOX 1960, BRENTWOOD, CA 94513",
+               "Addr2":null,
+               "Loc":"USA",
+               "Pin":999999,
+               "Stcd":"96",
+               "Ph":null,
+               "Em":null
+},
+"ValDtls":{
+               "AssVal":5424.9,
+               "IgstVal":0,
+               "CgstVal":0,
+               "SgstVal":0,
+               "CesVal":0,
+               "StCesVal":0,
+               "Discount":0,
+               "OthChrg":0,
+               "RndOffAmt":0,
+               "TotInvVal":5424.9
+},
+"ExpDtls":{
+               "ShipBNo":null,
+               "ShipBDt":null,
+               "Port":null,
+               "RefClm":null,
+               "ForCur":null,
+               "CntCode":null,
+               "ExpDuty":0
+},
+                         "ItemList":[{
+                                "SlNo":"1",
+                                "PrdDesc":"engineering services",
+                                "IsServc":"Y",
+                                "HsnCd":"998331",
+                                "Qty":1,
+                                "Unit":"NOS",
+                                "UnitPrice":5424.9,
+                                "TotAmt":5424.9,
+                                "Discount":0,
+                                "PreTaxVal":0,
+                                "AssAmt":5424.9,
+                                "GstRt":0,
+                                "IgstAmt":0,
+                                "CgstAmt":0,
+                                "SgstAmt":0,
+                                "CesRt":0,
+                                "CesAmt":0,
+                                "CesNonAdvlAmt":0,
+                                "StateCesRt":0,
+                                "StateCesAmt":0,
+                                "StateCesNonAdvlAmt":0,
+                                "OthChrg":0,
+                                "TotItemVal":5424.9
+                              }
+                              ]
+},
+{
+"Version":"1.1",
+"TranDtls":{
+               "TaxSch":"GST",
+               "SupTyp":"EXPWOP",
+               "IgstOnIntra":"N",
+               "RegRev":null,
+               "EcmGstin":null
+},
+"DocDtls":{
+               "Typ":"INV",
+               "No":"SRE-24/25-23",
+               "Dt":"06/06/2024"
+},
+"SellerDtls":{
+               "Gstin":"06ABFCS3581H1Z7",
+               "LglNm":"SOLAROOT ENGINEERING SERVICES PRIVATE LIMITED",
+               "TrdNm":null,
+               "Addr1":"BUILDING NO./FLAT NO.: 880",
+               "Addr2":"PHASE-V ",
+               "Loc":"UDYOG VIHAR GURUGRAM",
+               "Pin":122016,
+               "Stcd":"06",
+               "Ph":null,
+               "Em":null
+},
+"BuyerDtls":{
+               "Gstin":"URP",
+               "LglNm":"Son Light Construction, Inc.",
+               "TrdNm":null,
+               "Pos":"96",
+               "Addr1":"13240 Blodget Ave, Bakersfield, CA 93314, United States",
+               "Addr2":null,
+               "Loc":"USA",
+               "Pin":999999,
+               "Stcd":"96",
+               "Ph":null,
+               "Em":null
+},
+"ValDtls":{
+               "AssVal":49658.7,
+               "IgstVal":0,
+               "CgstVal":0,
+               "SgstVal":0,
+               "CesVal":0,
+               "StCesVal":0,
+               "Discount":0,
+               "OthChrg":0,
+               "RndOffAmt":0,
+               "TotInvVal":49658.7
+},
+"ExpDtls":{
+               "ShipBNo":null,
+               "ShipBDt":null,
+               "Port":null,
+               "RefClm":null,
+               "ForCur":null,
+               "CntCode":null,
+               "ExpDuty":0
+},
+                         "ItemList":[{
+                                "SlNo":"1",
+                                "PrdDesc":"engineering services",
+                                "IsServc":"Y",
+                                "HsnCd":"998331",
+                                "Qty":1,
+                                "Unit":"NOS",
+                                "UnitPrice":49658.7,
+                                "TotAmt":49658.7,
+                                "Discount":0,
+                                "PreTaxVal":0,
+                                "AssAmt":49658.7,
+                                "GstRt":0,
+                                "IgstAmt":0,
+                                "CgstAmt":0,
+                                "SgstAmt":0,
+                                "CesRt":0,
+                                "CesAmt":0,
+                                "CesNonAdvlAmt":0,
+                                "StateCesRt":0,
+                                "StateCesAmt":0,
+                                "StateCesNonAdvlAmt":0,
+                                "OthChrg":0,
+                                "TotItemVal":49658.7
+                              }
+                              ]
+},
+{
+"Version":"1.1",
+"TranDtls":{
+               "TaxSch":"GST",
+               "SupTyp":"EXPWOP",
+               "IgstOnIntra":"N",
+               "RegRev":null,
+               "EcmGstin":null
+},
+"DocDtls":{
+               "Typ":"INV",
+               "No":"SRE-24/25-24",
+               "Dt":"06/06/2024"
+},
+"SellerDtls":{
+               "Gstin":"06ABFCS3581H1Z7",
+               "LglNm":"SOLAROOT ENGINEERING SERVICES PRIVATE LIMITED",
+               "TrdNm":null,
+               "Addr1":"BUILDING NO./FLAT NO.: 880",
+               "Addr2":"PHASE-V ",
+               "Loc":"UDYOG VIHAR GURUGRAM",
+               "Pin":122016,
+               "Stcd":"06",
+               "Ph":null,
+               "Em":null
+},
+"BuyerDtls":{
+               "Gstin":"URP",
+               "LglNm":"Jiwoo Seok",
+               "TrdNm":null,
+               "Pos":"96",
+               "Addr1":"58 Misty Mesa Trail, Mansfield, TX 76063",
+               "Addr2":null,
+               "Loc":"USA",
+               "Pin":999999,
+               "Stcd":"96",
+               "Ph":null,
+               "Em":null
+},
+"ValDtls":{
+               "AssVal":73444.8,
+               "IgstVal":0,
+               "CgstVal":0,
+               "SgstVal":0,
+               "CesVal":0,
+               "StCesVal":0,
+               "Discount":0,
+               "OthChrg":0,
+               "RndOffAmt":0,
+               "TotInvVal":73444.8
+},
+"ExpDtls":{
+               "ShipBNo":null,
+               "ShipBDt":null,
+               "Port":null,
+               "RefClm":null,
+               "ForCur":null,
+               "CntCode":null,
+               "ExpDuty":0
+},
+                         "ItemList":[{
+                                "SlNo":"1",
+                                "PrdDesc":"engineering services",
+                                "IsServc":"Y",
+                                "HsnCd":"998331",
+                                "Qty":1,
+                                "Unit":"NOS",
+                                "UnitPrice":2282.5,
+                                "TotAmt":73444.8,
+                                "Discount":0,
+                                "PreTaxVal":0,
+                                "AssAmt":73444.8,
+                                "GstRt":0,
+                                "IgstAmt":0,
+                                "CgstAmt":0,
+                                "SgstAmt":0,
+                                "CesRt":0,
+                                "CesAmt":0,
+                                "CesNonAdvlAmt":0,
+                                "StateCesRt":0,
+                                "StateCesAmt":0,
+                                "StateCesNonAdvlAmt":0,
+                                "OthChrg":0,
+                                "TotItemVal":73444.8
+                              }
+                              ]
+},
+{
+"Version":"1.1",
+"TranDtls":{
+               "TaxSch":"GST",
+               "SupTyp":"EXPWOP",
+               "IgstOnIntra":"N",
+               "RegRev":null,
+               "EcmGstin":null
+},
+"DocDtls":{
+               "Typ":"INV",
+               "No":"SRE-24/25-25",
+               "Dt":"06/06/2024"
+},
+"SellerDtls":{
+               "Gstin":"06ABFCS3581H1Z7",
+               "LglNm":"SOLAROOT ENGINEERING SERVICES PRIVATE LIMITED",
+               "TrdNm":null,
+               "Addr1":"BUILDING NO./FLAT NO.: 880",
+               "Addr2":"PHASE-V ",
+               "Loc":"UDYOG VIHAR GURUGRAM",
+               "Pin":122016,
+               "Stcd":"06",
+               "Ph":null,
+               "Em":null
+},
+"BuyerDtls":{
+               "Gstin":"URP",
+               "LglNm":"Suncatcher Of Atlanta",
+               "TrdNm":null,
+               "Pos":"96",
+               "Addr1":"612 Cobb Pkwy N,Marietta, GA 30062",
+               "Addr2":null,
+               "Loc":"USA",
+               "Pin":999999,
+               "Stcd":"96",
+               "Ph":null,
+               "Em":null
+},
+"ValDtls":{
+               "AssVal":74696.7,
+               "IgstVal":0,
+               "CgstVal":0,
+               "SgstVal":0,
+               "CesVal":0,
+               "StCesVal":0,
+               "Discount":0,
+               "OthChrg":0,
+               "RndOffAmt":0,
+               "TotInvVal":74696.7
+},
+"ExpDtls":{
+               "ShipBNo":null,
+               "ShipBDt":null,
+               "Port":null,
+               "RefClm":null,
+               "ForCur":null,
+               "CntCode":null,
+               "ExpDuty":0
+},
+                         "ItemList":[{
+                                "SlNo":"1",
+                                "PrdDesc":"engineering services",
+                                "IsServc":"Y",
+                                "HsnCd":"998331",
+                                "Qty":1,
+                                "Unit":"NOS",
+                                "UnitPrice":74696.7,
+                                "TotAmt":74696.7,
+                                "Discount":0,
+                                "PreTaxVal":0,
+                                "AssAmt":74696.7,
+                                "GstRt":0,
+                                "IgstAmt":0,
+                                "CgstAmt":0,
+                                "SgstAmt":0,
+                                "CesRt":0,
+                                "CesAmt":0,
+                                "CesNonAdvlAmt":0,
+                                "StateCesRt":0,
+                                "StateCesAmt":0,
+                                "StateCesNonAdvlAmt":0,
+                                "OthChrg":0,
+                                "TotItemVal":74696.7
+                              }
+                              ]
+},
+{
+"Version":"1.1",
+"TranDtls":{
+               "TaxSch":"GST",
+               "SupTyp":"EXPWOP",
+               "IgstOnIntra":"N",
+               "RegRev":null,
+               "EcmGstin":null
+},
+"DocDtls":{
+               "Typ":"INV",
+               "No":"SRE-24/25-26",
+               "Dt":"06/06/2024"
+},
+"SellerDtls":{
+               "Gstin":"06ABFCS3581H1Z7",
+               "LglNm":"SOLAROOT ENGINEERING SERVICES PRIVATE LIMITED",
+               "TrdNm":null,
+               "Addr1":"BUILDING NO./FLAT NO.: 880",
+               "Addr2":"PHASE-V ",
+               "Loc":"UDYOG VIHAR GURUGRAM",
+               "Pin":122016,
+               "Stcd":"06",
+               "Ph":null,
+               "Em":null
+},
+"BuyerDtls":{
+               "Gstin":"URP",
+               "LglNm":"POSIGEN",
+               "TrdNm":null,
+               "Pos":"96",
+               "Addr1":"819 Central Ave Suite 210, New Orleans, LA 70121, United States",
+               "Addr2":null,
+               "Loc":"USA",
+               "Pin":999999,
+               "Stcd":"96",
+               "Ph":null,
+               "Em":null
+},
+"ValDtls":{
+               "AssVal":1155503.7,
+               "IgstVal":0,
+               "CgstVal":0,
+               "SgstVal":0,
+               "CesVal":0,
+               "StCesVal":0,
+               "Discount":0,
+               "OthChrg":0,
+               "RndOffAmt":0,
+               "TotInvVal":1155503.7
+},
+"ExpDtls":{
+               "ShipBNo":null,
+               "ShipBDt":null,
+               "Port":null,
+               "RefClm":null,
+               "ForCur":null,
+               "CntCode":null,
+               "ExpDuty":0
+},
+                         "ItemList":[{
+                                "SlNo":"1",
+                                "PrdDesc":"engineering services",
+                                "IsServc":"Y",
+                                "HsnCd":"998331",
+                                "Qty":1,
+                                "Unit":"NOS",
+                                "UnitPrice":1155503.7,
+                                "TotAmt":1155503.7,
+                                "Discount":0,
+                                "PreTaxVal":0,
+                                "AssAmt":1155503.7,
+                                "GstRt":0,
+                                "IgstAmt":0,
+                                "CgstAmt":0,
+                                "SgstAmt":0,
+                                "CesRt":0,
+                                "CesAmt":0,
+                                "CesNonAdvlAmt":0,
+                                "StateCesRt":0,
+                                "StateCesAmt":0,
+                                "StateCesNonAdvlAmt":0,
+                                "OthChrg":0,
+                                "TotItemVal":1155503.7
+                              }
+                              ]
+},
+{
+"Version":"1.1",
+"TranDtls":{
+               "TaxSch":"GST",
+               "SupTyp":"EXPWOP",
+               "IgstOnIntra":"N",
+               "RegRev":null,
+               "EcmGstin":null
+},
+"DocDtls":{
+               "Typ":"INV",
+               "No":"SRE-24/25-28",
+               "Dt":"06/06/2024"
+},
+"SellerDtls":{
+               "Gstin":"06ABFCS3581H1Z7",
+               "LglNm":"SOLAROOT ENGINEERING SERVICES PRIVATE LIMITED",
+               "TrdNm":null,
+               "Addr1":"BUILDING NO./FLAT NO.: 880",
+               "Addr2":"PHASE-V ",
+               "Loc":"UDYOG VIHAR GURUGRAM",
+               "Pin":122016,
+               "Stcd":"06",
+               "Ph":null,
+               "Em":null
+},
+"BuyerDtls":{
+               "Gstin":"URP",
+               "LglNm":"Prism Solar Residential LLC",
+               "TrdNm":null,
+               "Pos":"96",
+               "Addr1":"810 7th street NE Washington DC 20002",
+               "Addr2":null,
+               "Loc":"USA",
+               "Pin":999999,
+               "Stcd":"96",
+               "Ph":null,
+               "Em":null
+},
+"ValDtls":{
+               "AssVal":158156.7,
+               "IgstVal":0,
+               "CgstVal":0,
+               "SgstVal":0,
+               "CesVal":0,
+               "StCesVal":0,
+               "Discount":0,
+               "OthChrg":0,
+               "RndOffAmt":0,
+               "TotInvVal":158156.7
+},
+"ExpDtls":{
+               "ShipBNo":null,
+               "ShipBDt":null,
+               "Port":null,
+               "RefClm":null,
+               "ForCur":null,
+               "CntCode":null,
+               "ExpDuty":0
+},
+                         "ItemList":[{
+                                "SlNo":"1",
+                                "PrdDesc":"engineering services",
+                                "IsServc":"Y",
+                                "HsnCd":"998331",
+                                "Qty":1,
+                                "Unit":"NOS",
+                                "UnitPrice":158156.7,
+                                "TotAmt":158156.7,
+                                "Discount":0,
+                                "PreTaxVal":0,
+                                "AssAmt":158156.7,
+                                "GstRt":0,
+                                "IgstAmt":0,
+                                "CgstAmt":0,
+                                "SgstAmt":0,
+                                "CesRt":0,
+                                "CesAmt":0,
+                                "CesNonAdvlAmt":0,
+                                "StateCesRt":0,
+                                "StateCesAmt":0,
+                                "StateCesNonAdvlAmt":0,
+                                "OthChrg":0,
+                                "TotItemVal":158156.7
+                              }
+                              ]
+},
+{
+"Version":"1.1",
+"TranDtls":{
+               "TaxSch":"GST",
+               "SupTyp":"EXPWOP",
+               "IgstOnIntra":"N",
+               "RegRev":null,
+               "EcmGstin":null
+},
+"DocDtls":{
+               "Typ":"INV",
+               "No":"SRE-24/25-29",
+               "Dt":"06/06/2024"
+},
+"SellerDtls":{
+               "Gstin":"06ABFCS3581H1Z7",
+               "LglNm":"SOLAROOT ENGINEERING SERVICES PRIVATE LIMITED",
+               "TrdNm":null,
+               "Addr1":"BUILDING NO./FLAT NO.: 880",
+               "Addr2":"PHASE-V ",
+               "Loc":"UDYOG VIHAR GURUGRAM",
+               "Pin":122016,
+               "Stcd":"06",
+               "Ph":null,
+               "Em":null
+},
+"BuyerDtls":{
+               "Gstin":"URP",
+               "LglNm":"Discount Solar Solutions Inc",
+               "TrdNm":null,
+               "Pos":"96",
+               "Addr1":"6403 Seven Seas ave #2 Bakersfield, CA 93308",
+               "Addr2":null,
+               "Loc":"USA",
+               "Pin":999999,
+               "Stcd":"96",
+               "Ph":null,
+               "Em":null
+},
+"ValDtls":{
+               "AssVal":25872.6,
+               "IgstVal":0,
+               "CgstVal":0,
+               "SgstVal":0,
+               "CesVal":0,
+               "StCesVal":0,
+               "Discount":0,
+               "OthChrg":0,
+               "RndOffAmt":0,
+               "TotInvVal":25872.6
+},
+"ExpDtls":{
+               "ShipBNo":null,
+               "ShipBDt":null,
+               "Port":null,
+               "RefClm":null,
+               "ForCur":null,
+               "CntCode":null,
+               "ExpDuty":0
+},
+                         "ItemList":[{
+                                "SlNo":"1",
+                                "PrdDesc":"engineering services",
+                                "IsServc":"Y",
+                                "HsnCd":"998331",
+                                "Qty":1,
+                                "Unit":"NOS",
+                                "UnitPrice":25872.6,
+                                "TotAmt":25872.6,
+                                "Discount":0,
+                                "PreTaxVal":0,
+                                "AssAmt":25872.6,
+                                "GstRt":0,
+                                "IgstAmt":0,
+                                "CgstAmt":0,
+                                "SgstAmt":0,
+                                "CesRt":0,
+                                "CesAmt":0,
+                                "CesNonAdvlAmt":0,
+                                "StateCesRt":0,
+                                "StateCesAmt":0,
+                                "StateCesNonAdvlAmt":0,
+                                "OthChrg":0,
+                                "TotItemVal":25872.6
+                              }
+                              ]
+               }
+]

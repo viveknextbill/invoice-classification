@@ -1,0 +1,158 @@
+[
+{
+"Version":"1.1",
+"TranDtls":{
+               "TaxSch":"GST",
+               "SupTyp":"B2B",
+               "IgstOnIntra":"N",
+               "RegRev":null,
+               "EcmGstin":null
+},
+"DocDtls":{
+               "Typ":"INV",
+               "No":"Z2425-25",
+               "Dt":"08/08/2024"
+},
+"SellerDtls":{
+               "Gstin":"06AABCZ1333P1Z3",
+               "LglNm":"ZENEDL CNS PRIVATE LIMITED",
+               "TrdNm":null,
+               "Addr1":"322, 3RD FLOOR, GURUGRAM",
+               "Addr2":null,
+               "Loc":"HARYANA",
+               "Pin":122018,
+               "Stcd":"06",
+               "Ph":null,
+               "Em":null
+},
+"BuyerDtls":{
+               "Gstin":"06AADCL8232D1ZS",
+               "LglNm":"LS BUILDWIN LTD",
+               "TrdNm":null,
+               "Pos":"06",
+               "Addr1":"328-329, 3rd Floor, DLF star Tower, NH-8, Gurgaon,",
+               "Addr2":"sector 30",
+               "Loc":"GURUGRAM",
+               "Pin":122001,
+               "Stcd":"06",
+               "Ph":null,
+               "Em":null
+},
+"ValDtls":{
+               "AssVal":58000,
+               "IgstVal":0,
+               "CgstVal":5220,
+               "SgstVal":5220,
+               "CesVal":0,
+               "StCesVal":0,
+               "Discount":0,
+               "OthChrg":0,
+               "RndOffAmt":0,
+               "TotInvVal":68440
+},
+                         "ItemList":[{
+                                "SlNo":"1",
+                                "PrdDesc":"Supporting Fee for GST investigation",
+                                "IsServc":"Y",
+                                "HsnCd":"998311",
+                                "Qty":1,
+                                "Unit":"OTH",
+                                "UnitPrice":58000,
+                                "TotAmt":58000,
+                                "Discount":0,
+                                "PreTaxVal":0,
+                                "AssAmt":58000,
+                                "GstRt":18,
+                                "IgstAmt":0,
+                                "CgstAmt":5220,
+                                "SgstAmt":5220,
+                                "CesRt":0,
+                                "CesAmt":0,
+                                "CesNonAdvlAmt":0,
+                                "StateCesRt":0,
+                                "StateCesAmt":0,
+                                "StateCesNonAdvlAmt":0,
+                                "OthChrg":0,
+                                "TotItemVal":68440
+                              }
+                              ]
+},
+{
+"Version":"1.1",
+"TranDtls":{
+               "TaxSch":"GST",
+               "SupTyp":"B2B",
+               "IgstOnIntra":"N",
+               "RegRev":null,
+               "EcmGstin":null
+},
+"DocDtls":{
+               "Typ":"INV",
+               "No":"Z2425-26",
+               "Dt":"08/08/2024"
+},
+"SellerDtls":{
+               "Gstin":"06AABCZ1333P1Z3",
+               "LglNm":"ZENEDL CNS PRIVATE LIMITED",
+               "TrdNm":null,
+               "Addr1":"322, 3RD FLOOR, GURUGRAM",
+               "Addr2":null,
+               "Loc":"HARYANA",
+               "Pin":122018,
+               "Stcd":"06",
+               "Ph":null,
+               "Em":null
+},
+"BuyerDtls":{
+               "Gstin":"06AADCL8232D1ZS",
+               "LglNm":"LS BUILDWIN LTD",
+               "TrdNm":null,
+               "Pos":"06",
+               "Addr1":"328-329, 3rd Floor, DLF star Tower, NH-8, Gurgaon,",
+               "Addr2":"sector 30",
+               "Loc":"GURUGRAM",
+               "Pin":122001,
+               "Stcd":"06",
+               "Ph":null,
+               "Em":null
+},
+"ValDtls":{
+               "AssVal":100000,
+               "IgstVal":0,
+               "CgstVal":9000,
+               "SgstVal":9000,
+               "CesVal":0,
+               "StCesVal":0,
+               "Discount":0,
+               "OthChrg":0,
+               "RndOffAmt":0,
+               "TotInvVal":118000
+},
+                         "ItemList":[{
+                                "SlNo":"1",
+                                "PrdDesc":"Book keeping, GST and TDS working charge from 01-Aug-2024 to 31-Aug-2024",
+                                "IsServc":"Y",
+                                "HsnCd":"998311",
+                                "Qty":1,
+                                "Unit":"OTH",
+                                "UnitPrice":100000,
+                                "TotAmt":100000,
+                                "Discount":0,
+                                "PreTaxVal":0,
+                                "AssAmt":100000,
+                                "GstRt":18,
+                                "IgstAmt":0,
+                                "CgstAmt":9000,
+                                "SgstAmt":9000,
+                                "CesRt":0,
+                                "CesAmt":0,
+                                "CesNonAdvlAmt":0,
+                                "StateCesRt":0,
+                                "StateCesAmt":0,
+                                "StateCesNonAdvlAmt":0,
+                                "OthChrg":0,
+                                "TotItemVal":118000
+                              }
+                              ]
+               }
+]

@@ -1,0 +1,158 @@
+[
+{
+"Version":"1.1",
+"TranDtls":{
+               "TaxSch":"GST",
+               "SupTyp":"B2B",
+               "IgstOnIntra":"N",
+               "RegRev":null,
+               "EcmGstin":null
+},
+"DocDtls":{
+               "Typ":"INV",
+               "No":"Z2425-008",
+               "Dt":"13/05/2024"
+},
+"SellerDtls":{
+               "Gstin":"09AABCZ1333P1ZX",
+               "LglNm":"ZENEDL CNS PRIVATE LIMITED",
+               "TrdNm":null,
+               "Addr1":"5TH FLOOR, TOWER-1, 506, WEGMANS BUSINESS PARK, ",
+               "Addr2":"KNOWLEDGE PARK-3, GEREATER NOIDA, GAUTAMBUDDHA NAGAR",
+               "Loc":"UTTAR PRADESH",
+               "Pin":210306,
+               "Stcd":"09",
+               "Ph":null,
+               "Em":null
+},
+"BuyerDtls":{
+               "Gstin":"09AAICB5820E1ZT",
+               "LglNm":"BANSEOG TECHNOLOGY INDIA Pvt Ltd",
+               "TrdNm":null,
+               "Pos":"09",
+               "Addr1":"1st Floor, Plot no 29, ecotech-VI, Greater Noida",
+               "Addr2":null,
+               "Loc":"Gautam Buddha Nagar",
+               "Pin":201310,
+               "Stcd":"09",
+               "Ph":null,
+               "Em":null
+},
+"ValDtls":{
+               "AssVal":24000,
+               "IgstVal":0,
+               "CgstVal":2160,
+               "SgstVal":2160,
+               "CesVal":0,
+               "StCesVal":0,
+               "Discount":0,
+               "OthChrg":0,
+               "RndOffAmt":0,
+               "TotInvVal":28320
+},
+                         "ItemList":[{
+                                "SlNo":"1",
+                                "PrdDesc":"Book keeping, GST and TDS working charge from 01-May-2024 to 31-May-2024",
+                                "IsServc":"Y",
+                                "HsnCd":"998311",
+                                "Qty":1,
+                                "Unit":"OTH",
+                                "UnitPrice":24000,
+                                "TotAmt":24000,
+                                "Discount":0,
+                                "PreTaxVal":0,
+                                "AssAmt":24000,
+                                "GstRt":18,
+                                "IgstAmt":0,
+                                "CgstAmt":2160,
+                                "SgstAmt":2160,
+                                "CesRt":0,
+                                "CesAmt":0,
+                                "CesNonAdvlAmt":0,
+                                "StateCesRt":0,
+                                "StateCesAmt":0,
+                                "StateCesNonAdvlAmt":0,
+                                "OthChrg":0,
+                                "TotItemVal":28320
+                              }
+                              ]
+},
+{
+"Version":"1.1",
+"TranDtls":{
+               "TaxSch":"GST",
+               "SupTyp":"B2B",
+               "IgstOnIntra":"N",
+               "RegRev":null,
+               "EcmGstin":null
+},
+"DocDtls":{
+               "Typ":"INV",
+               "No":"Z2425-013",
+               "Dt":"13/05/2024"
+},
+"SellerDtls":{
+               "Gstin":"09AABCZ1333P1ZX",
+               "LglNm":"ZENEDL CNS PRIVATE LIMITED",
+               "TrdNm":null,
+               "Addr1":"5TH FLOOR, TOWER-1, 506, WEGMANS BUSINESS PARK, ",
+               "Addr2":"KNOWLEDGE PARK-3, GEREATER NOIDA, GAUTAMBUDDHA NAGAR",
+               "Loc":"UTTAR PRADESH",
+               "Pin":210306,
+               "Stcd":"09",
+               "Ph":null,
+               "Em":null
+},
+"BuyerDtls":{
+               "Gstin":"09AABCU4693H1ZY",
+               "LglNm":"HIGHEND TECHNOLOGIES KOREA PRIVATE LIMITED",
+               "TrdNm":null,
+               "Pos":"09",
+               "Addr1":"5th tower-1, UNIT NO. 506, Wegmans Business Park,",
+               "Addr2":"knowledge park-3, GREATER NOIDA, Gautam Buddha Nagar",
+               "Loc":"Noida Gautam Buddha Nagar",
+               "Pin":201306,
+               "Stcd":"09",
+               "Ph":null,
+               "Em":null
+},
+"ValDtls":{
+               "AssVal":10000,
+               "IgstVal":0,
+               "CgstVal":900,
+               "SgstVal":900,
+               "CesVal":0,
+               "StCesVal":0,
+               "Discount":0,
+               "OthChrg":0,
+               "RndOffAmt":0,
+               "TotInvVal":11800
+},
+                         "ItemList":[{
+                                "SlNo":"1",
+                                "PrdDesc":"Book keeping, GST and TDS working charge from 01-Apr-2024 to 30-Apr-2024",
+                                "IsServc":"Y",
+                                "HsnCd":"998311",
+                                "Qty":1,
+                                "Unit":"OTH",
+                                "UnitPrice":10000,
+                                "TotAmt":10000,
+                                "Discount":0,
+                                "PreTaxVal":0,
+                                "AssAmt":10000,
+                                "GstRt":18,
+                                "IgstAmt":0,
+                                "CgstAmt":900,
+                                "SgstAmt":900,
+                                "CesRt":0,
+                                "CesAmt":0,
+                                "CesNonAdvlAmt":0,
+                                "StateCesRt":0,
+                                "StateCesAmt":0,
+                                "StateCesNonAdvlAmt":0,
+                                "OthChrg":0,
+                                "TotItemVal":11800
+                              }
+                              ]
+               }
+]
