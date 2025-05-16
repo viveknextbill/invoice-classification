@@ -1,21 +1,20 @@
 payment_id,bank_ref_no,match_score,amount_diff,date_diff_days,name_match_score,reference_match,bank_txn_date,payment_date,payment_amount,bank_debit,customer_name,bank_party
-11,NEFT INB: CNACLBDDK4                              TRANSFER TO 4899157044304 / Mohd  Shahid Iqbal,0.98,0,1,0.9714,FALSE,22-04-2023,21-04-2023,26800,26800,mohd. shahid iqbal,mohd shahid iqbal
-6,NEFT INB: CNACKXJZU2                              TRANSFER TO 3199302044302 / STACK AND MOVE SOLUTIONS,0.98,0,0,0.913,FALSE,18-04-2023,18-04-2023,21240,21240,stack & move solutions,stack and move solutions
-20,NEFT INB: CNACLHFCX8                              TRANSFER TO 4899157044304 / Megamind Technosoft,0.98,0,1,0.9474,FALSE,29-04-2023,28-04-2023,47000,47000,megaming technosoft,megamind technosoft
-13,NEFT INB: CNACLBXVD3                              TRANSFER TO 4899157044304 / HOOK CATCH SEAFOODS PRIVATE LIMITED,0.98,0,0,0.8525,FALSE,24-04-2023,24-04-2023,19836,19836,hook catch seafood pvt ltd,hook catch seafoods private limited
-21,NEFT INB: CNACLGOTS9                              TRANSFER TO 3197945044305 / Anmol Consultancy and Man Power,0.93,0,0,0.8116,FALSE,28-04-2023,28-04-2023,87397,87397,anmol consultancy & man power services,anmol consultancy and man power
-5,RTGS INB: CRE4098188                              TRANSFER TO 4599109044308 / Atharv Industries Corporation,0.73,0,0,0.6,FALSE,18-04-2023,18-04-2023,444000,444000,atharv industries corporation,atharv industries corporation
-7,NEFT INB: CNACKXKQJ1                              TRANSFER TO 3199302044302 / SVOD PROFESSIONAL INDIA PVT LTD,0.73,0,0,0.6,FALSE,18-04-2023,18-04-2023,32400,32400,svod professional,svod professional india pvt ltd
-9,NEFT INB: CNACKYRPG7                              TRANSFER TO 3199302044302 / GRENO ENTERPRISES,0.73,0,1,0.6,FALSE,20-04-2023,19-04-2023,2832,2832,greno enterprises,greno enterprises
-2,NEFT INB: CNACKMZIA0                              TRANSFER TO 3199302044302 / RAINDER KAUR WALIA,0.73,0,0,0.6,FALSE,07-04-2023,07-04-2023,68800,68800,rainder kaur walia,rainder kaur walia
-12,NEFT INB: CNACLBDFK5                              TRANSFER TO 4697153044301 / TECHPC7,0.73,0,0,0.6,FALSE,22-04-2023,22-04-2023,15986,15986,techpc7,techpc7
-4,NEFT INB: CNACKWKTN1                              TRANSFER TO 3199302044302 / SRJ Technologies,0.73,0,1,0.6,FALSE,18-04-2023,17-04-2023,3168,3168,srj technologies,srj technologies
-14,NEFT INB: CNACLBXUO4                              TRANSFER TO 3199301044303 / CALCIFY IT SOLUTIONS,0.73,0,0,0.6,FALSE,24-04-2023,24-04-2023,11210,11210,calcify it solutions,calcify it solutions
-15,NEFT INB: CNACLCGUZ4                              TRANSFER TO 4697156044308 / SUPREME WORLD,0.73,0,0,0.6,FALSE,24-04-2023,24-04-2023,6608,6608,supreme world,supreme world
-16,RTGS INB: CRE4300881                              TRANSFER TO 4599109044308 / F2S,0.73,0,0,0.6,FALSE,24-04-2023,24-04-2023,1690924,1690924,foundation to structure (f2s),f2s
-17,NEFT INB: CNACLDRKO3                              TRANSFER TO 4697155044309 / TECHPC7,0.73,0,0,0.6,FALSE,25-04-2023,25-04-2023,125473,125473,techpc7,techpc7
-19,NEFT INB: CNACLGCPA5                              TRANSFER TO 3197945044305 / Booyoung India Pvt  Ltd,0.73,0,2,0.6,FALSE,28-04-2023,26-04-2023,48498,48498,booyoung india pvt ltd,booyoung india pvt ltd
-3,NEFT INB: CNACKWJEF4                              TRANSFER TO 3199302044302 / SHUBHA KUMAR G,0.73,0,1,0.6111,FALSE,18-04-2023,17-04-2023,10080,10080,gnaneshwar shubhakumar,shubha kumar g
-1,NEFT INB: CNACKISXZ2                              TRANSFER TO 3199302044302 / Shree shyam traders,0.73,0,3,0.6,FALSE,04-04-2023,01-04-2023,55507,55507,shree shyam traders,shree shyam traders
-8,NEFT INB: CNACKYPNF9                              TRANSFER TO 3199302044302 / GPS OFFICE EQUIPMENT PVT LTD,0.63,0.4,1,0.6,FALSE,20-04-2023,19-04-2023,5237,5237.4,gps office equipment pvt ltd,gps office equipment pvt ltd
-10,NEFT INB: CNACKZKIO3                              TRANSFER TO 3199302044302 / A2A Green Technologies LLP,0.63,0.36,0,0.6,FALSE,20-04-2023,20-04-2023,64055,64054.64,a2a green technologies llp,a2a green technologies llp
+1,NEFT INB: CNACKISXZ2                              TRANSFER TO 3199302044302 / Shree shyam traders,0.98,0.0,3,1.0,False,2023-04-04,2023-04-01,55507,55507.0,shree shyam traders,shree shyam traders
+2,NEFT INB: CNACKMZIA0                              TRANSFER TO 3199302044302 / RAINDER KAUR WALIA,0.98,0.0,0,1.0,False,2023-04-07,2023-04-07,68800,68800.0,rainder kaur walia,rainder kaur walia
+3,NEFT INB: CNACKWJEF4                              TRANSFER TO 3199302044302 / SHUBHA KUMAR G,0.73,0.0,1,0.6111,False,2023-04-18,2023-04-17,10080,10080.0,gnaneshwar shubhakumar,shubha kumar g
+4,NEFT INB: CNACKWKTN1                              TRANSFER TO 3199302044302 / SRJ Technologies,0.98,0.0,1,1.0,False,2023-04-18,2023-04-17,3168,3168.0,srj technologies,srj technologies
+5,RTGS INB: CRE4098188                              TRANSFER TO 4599109044308 / Atharv Industries Corporation,0.98,0.0,0,1.0,False,2023-04-18,2023-04-18,444000,444000.0,atharv industries corporation,atharv industries corporation
+6,NEFT INB: CNACKXJZU2                              TRANSFER TO 3199302044302 / STACK AND MOVE SOLUTIONS,0.98,0.0,0,0.913,False,2023-04-18,2023-04-18,21240,21240.0,stack & move solutions,stack and move solutions
+7,NEFT INB: CNACKXKQJ1                              TRANSFER TO 3199302044302 / SVOD PROFESSIONAL INDIA PVT LTD,0.93,0.0,0,0.7083,False,2023-04-18,2023-04-18,32400,32400.0,svod professional,svod professional india pvt ltd
+8,NEFT INB: CNACKYPNF9                              TRANSFER TO 3199302044302 / GPS OFFICE EQUIPMENT PVT LTD,0.98,0.3999999999996362,1,1.0,False,2023-04-20,2023-04-19,5237,5237.4,gps office equipment pvt ltd,gps office equipment pvt ltd
+9,NEFT INB: CNACKYRPG7                              TRANSFER TO 3199302044302 / GRENO ENTERPRISES,0.98,0.0,1,1.0,False,2023-04-20,2023-04-19,2832,2832.0,greno enterprises,greno enterprises
+10,NEFT INB: CNACKZKIO3                              TRANSFER TO 3199302044302 / A2A Green Technologies LLP,0.98,0.3600000000005821,0,1.0,False,2023-04-20,2023-04-20,64055,64054.64,a2a green technologies llp,a2a green technologies llp
+11,NEFT INB: CNACLBDDK4                              TRANSFER TO 4899157044304 / Mohd  Shahid Iqbal,0.98,0.0,1,0.9714,False,2023-04-22,2023-04-21,26800,26800.0,mohd. shahid iqbal,mohd shahid iqbal
+12,NEFT INB: CNACLBDFK5                              TRANSFER TO 4697153044301 / TECHPC7,0.98,0.0,0,1.0,False,2023-04-22,2023-04-22,15986,15986.0,techpc7,techpc7
+13,NEFT INB: CNACLBXVD3                              TRANSFER TO 4899157044304 / HOOK CATCH SEAFOODS PRIVATE LIMITED,0.98,0.0,0,0.8525,False,2023-04-24,2023-04-24,19836,19836.0,hook catch seafood pvt ltd,hook catch seafoods private limited
+14,NEFT INB: CNACLBXUO4                              TRANSFER TO 3199301044303 / CALCIFY IT SOLUTIONS,0.98,0.0,0,1.0,False,2023-04-24,2023-04-24,11210,11210.0,calcify it solutions,calcify it solutions
+15,NEFT INB: CNACLCGUZ4                              TRANSFER TO 4697156044308 / SUPREME WORLD,0.98,0.0,0,1.0,False,2023-04-24,2023-04-24,6608,6608.0,supreme world,supreme world
+17,NEFT INB: CNACLDRKO3                              TRANSFER TO 4697155044309 / TECHPC7,0.98,0.0,0,1.0,False,2023-04-25,2023-04-25,125473,125473.0,techpc7,techpc7
+19,NEFT INB: CNACLGCPA5                              TRANSFER TO 3197945044305 / Booyoung India Pvt  Ltd,0.98,0.0,2,1.0,False,2023-04-28,2023-04-26,48498,48498.0,booyoung india pvt ltd,booyoung india pvt ltd
+20,NEFT INB: CNACLHFCX8                              TRANSFER TO 4899157044304 / Megamind Technosoft,0.98,0.0,1,0.9474,False,2023-04-29,2023-04-28,47000,47000.0,megaming technosoft,megamind technosoft
+21,NEFT INB: CNACLGOTS9                              TRANSFER TO 3197945044305 / Anmol Consultancy and Man Power,0.93,0.0,0,0.8116,False,2023-04-28,2023-04-28,87397,87397.0,anmol consultancy & man power services,anmol consultancy and man power
